@@ -5,9 +5,9 @@ Simply integrate [D'CENT Biometric wallet](https://dcentwallet.com) and we bring
 
 ### 🌏 Web SDKs
 #### D'CENT Biometric Wallet Javascript SDK for Web
-- [`dcnet-web-connector`](https://github.com/DcentWallet/dcent-web-connector): SDK to connect with D'CENT Biometric Wallet
-- [`dcnet-cli-connector`](https://github.com/DcentWallet/dcent-cli-connector): D'CENT Commandline Interface SDK Connector
-- [`dcnet-provider`](https://github.com/DcentWallet/dcent-provider): ethereum web3 provider of D'CENT Biometric Wallet wrapping dcent-web-connector
+- [`dcent-web-connector`](https://github.com/DcentWallet/dcent-web-connector): SDK to connect with D'CENT Biometric Wallet
+- [`dcent-cli-connector`](https://github.com/DcentWallet/dcent-cli-connector): D'CENT Commandline Interface SDK Connector
+- [`dcent-provider`](https://github.com/DcentWallet/dcent-provider): ethereum web3 provider of D'CENT Biometric Wallet wrapping dcent-web-connector
 
 #### D'CENT Wallet Connect
 - [`@dcentwallet/qrcode-modal`](https://github.com/DcentWallet/walletconnect-monorepo/tree/release/v1.8.1-beta/packages/helpers/qrcode-modal)
